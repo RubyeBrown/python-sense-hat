@@ -1,4 +1,4 @@
-# Contributing
+  Contributing
 
 ## Issues
 
@@ -12,3 +12,4 @@ Please create a new pull request for each change recommendation.
 
 - Python 2/3 compatability
 - PEP8-compliance (with exceptions)
+ 
