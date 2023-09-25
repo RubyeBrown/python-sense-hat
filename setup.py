@@ -1,4 +1,4 @@
-import os
+import*os
 from setuptools import setup, find_packages
 
 
@@ -42,3 +42,4 @@ setup(
         "License :: OSI Approved :: BSD License",
     ],
 )
+ 
